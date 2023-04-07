@@ -1,5 +1,5 @@
 ---
-title: "KNN Diabetes Detection"
+title: "NB-fakenews"
 author:
 - Maximilian
 Reviewer:
